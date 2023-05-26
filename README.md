@@ -52,24 +52,23 @@ These are my bug bounty notes that I have gathered from various sources, you can
 - [Tabnabbing](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Misc/Tabnabbing.md)
 
 ## Technologies
-- [Apache (HTTP Server)](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Technologies/Apache%20HTTP%20Server.md)
-- [Confluence](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Technologies/Confluence.md)
-- [Grafana](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Technologies/Grafana.md)
-- [HAProxy](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Technologies/HAProxy.md)
-- [Jenkins](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Technologies/Jenkins.md)
-- [Jira](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Technologies/Jira.md)
-- [Joomla](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Technologies/Joomla.md)
-- [Laravel](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Technologies/Laravel.md)
-- [Moodle](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Technologies/Moodle.md)
-- [Nginx](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Technologies/Nginx.md)
-- [WordPress](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Technologies/WordPress.md)
-- [Zend](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Technologies/Zend.md)
+- [Apache (HTTP Server)](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Technologies/Apache%20HTTP%20Server.md)
+- [Confluence](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Technologies/Confluence.md)
+- [Grafana](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Technologies/Grafana.md)
+- [HAProxy](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Technologies/HAProxy.md)
+- [Jenkins](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Technologies/Jenkins.md)
+- [Jira](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Technologies/Jira.md)
+- [Joomla](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Technologies/Joomla.md)
+- [Laravel](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Technologies/Laravel.md)
+- [Moodle](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Technologies/Moodle.md)
+- [Nginx](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Technologies/Nginx.md)
+- [WordPress](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Technologies/WordPress.md)
 
 ## Reconnaissance
-- [Scope Based Recon](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Reconnaissance/Scope.md)
-- [Github Dorks](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Reconnaissance/Github%20Dorks.md)
-- [Google Dorks](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Reconnaissance/Google%20Dorks.md)
-- [Shodan Dorks](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Reconnaissance/Shodan%20Dorks.md)
+- [Scope Based Recon](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Reconnaissance/Scope.md)
+- [Github Dorks](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Reconnaissance/Github%20Dorks.md)
+- [Google Dorks](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Reconnaissance/Google%20Dorks.md)
+- [Shodan Dorks](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Reconnaissance/Shodan%20Dorks.md)
 
 ## To-Do-List
 - [ ] Tidy up the reconnaisance folder
