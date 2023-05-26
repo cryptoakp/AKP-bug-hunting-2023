@@ -1,10 +1,7 @@
-# Radhe Radhe ❤️ 🙏 Jai shri Krishna ❤️ 🙏            Bug-Bounty-Methodology
+# Radhe Radhe ❤️ 🙏 Jai shri Krishna ❤️ 🙏 Bug-Bounty-Methodology by AKP
+
+
 These are my bug bounty notes that I have gathered from various sources, you can contribute to this repository too!
-If you really like it then don't forget to follow me ❤️
-- [LinkedIn ](https://www.linkedin.com/in/trilokdhaked/)
-- [Twitter](https://twitter.com/TrilokDhaked2)
-- [Instagram ](https://www.instagram.com/trilokdhakedofficial/)
-- [Linktree](https://linktr.ee/Trilokdhakedofficial)
 
 
 ## List Vulnerability
