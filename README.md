@@ -28,13 +28,13 @@ These are my bug bounty notes that I have gathered from various sources, you can
 - [Web Cache Poisoning](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Web%20Cache%20Poisoning.md)
 
 ## List Bypass
-- [Bypass 2FA](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Bypass/Bypass%202FA.md)
-- [Bypass 403](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Bypass/Bypass%20403.md)
-- [Bypass 429](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Bypass/Bypass%20429.md)
-- [Bypass Captcha](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Bypass/Bypass%20Captcha.md)
+- [Bypass 2FA](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Bypass%202FA.md)
+- [Bypass 403](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Bypass%20403.md)
+- [Bypass 429](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Bypass%20429.md)
+- [Bypass Captcha](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Bypass%20Captcha.md)
 
 ## Checklist
-- [Forgot Password Functionality](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Checklist/Forgot%20Password.md)
+- [Forgot Password Functionality](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Forgot%20Password.md)
 - Register Functionality SOON!
 
 
