@@ -1,12 +1,11 @@
 # Radhe Radhe 
 ❤️ 🙏 Jai shri Krishna ❤️ 🙏 Bug-Bounty-Methodology by AKP
-Old account Suspended!
-
 
 Updating Since 04-02-2021......
 Result of 2yr hardwork....HOPE THIS HELPS💫
  All the best💝 Pro Hunter 🤑
 
+# old acc suspended ;/
 
 ## List Vulnerability
 - [Arbitrary File Upload](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Arbitrary%20File%20Upload.md)
