@@ -18,7 +18,7 @@ These are my bug bounty notes that I have gathered from various sources, you can
 - [NoSQL Injection (NoSQLi)](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/NoSQL%20Injection.md)
 - [OAuth Misconfiguration](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/OAuth%20Misconfiguration.md)
 - [Open Redirect](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Open%20Redirect.md)
-- [Reflected File Download (RFD)](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Reflected%20File%20Download.md)
+- [Reflected File Download (RFD)](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Reflected%20File%20Download.md)
 - [Remote File Inclusion (RFI)](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Remote%20File%20Inclusion.md)
 - [Server Side Include Injection (SSI Injection)](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Server%20Side%20Include%20Injection.md)
 - [Server Side Request Forgery](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Server%20Side%20Request%20Forgery.md)
