@@ -2,7 +2,9 @@
 ❤️ 🙏 Jai shri Krishna ❤️ 🙏 Bug-Bounty-Methodology by AKP
 
 
-These are my bug bounty notes that I have gathered from various sources, you can contribute to this repository too!
+Updating Since 04-02-2021......
+Result of 2yr hardwork....HOPE THIS HELPS💫
+ All the best💝 Pro Hunter 🤑
 
 
 ## List Vulnerability
