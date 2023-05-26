@@ -1,4 +1,5 @@
-# Radhe Radhe ❤️ 🙏 Jai shri Krishna ❤️ 🙏 Bug-Bounty-Methodology by AKP
+# Radhe Radhe 
+❤️ 🙏 Jai shri Krishna ❤️ 🙏 Bug-Bounty-Methodology by AKP
 
 
 These are my bug bounty notes that I have gathered from various sources, you can contribute to this repository too!
