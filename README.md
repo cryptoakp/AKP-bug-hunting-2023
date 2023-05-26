@@ -37,19 +37,15 @@ These are my bug bounty notes that I have gathered from various sources, you can
 - [Forgot Password Functionality](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Checklist/Forgot%20Password.md)
 - Register Functionality SOON!
 
-## CVEs
-- CVEs 2021 (https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/CVEs/2021)
-- CVEs 2022 (SOON)
-- CVEs 2023 (SOON)
 
 ## Miscellaneous
-- [Account Takeover](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Misc/Account%20Takeover.md)
-- [Broken Link Hijacking](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Misc/Broken%20Link%20Hijacking.md)
-- [Business Logic Errors](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Misc/Business%20Logic%20Errors.md)
-- [Default Credentials](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Misc/Default%20Credentials.md)
-- [Email Spoofing](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Misc/Email%20Spoofing.md)
-- [JWT Vulnerabilities](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Misc/JWT%20Vulnerabilities.md)
-- [Tabnabbing](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Misc/Tabnabbing.md)
+- [Account Takeover](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Account%20Takeover.md)
+- [Broken Link Hijacking](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Broken%20Link%20Hijacking.md)
+- [Business Logic Errors](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Business%20Logic%20Errors.md)
+- [Default Credentials](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Default%20Credentials.md)
+- [Email Spoofing](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Email%20Spoofing.md)
+- [JWT Vulnerabilities](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/JWT%20Vulnerabilities.md)
+- [Tabnabbing](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Tabnabbing.md)
 
 ## Technologies
 - [Apache (HTTP Server)](https://github.com/cryptoakp/AKP-bug-hunting-2023/blob/main/Technologies/Apache%20HTTP%20Server.md)
